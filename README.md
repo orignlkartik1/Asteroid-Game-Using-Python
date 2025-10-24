@@ -18,6 +18,8 @@ Your **best score** is automatically saved between game sessions.
 
 # -->> Run Game
 
+Simple on your python interpreter run this project after cloning this repository.
+
 ---
 ### python main.py
 
